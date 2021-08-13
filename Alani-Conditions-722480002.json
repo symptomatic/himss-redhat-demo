@@ -1,6 +1,6 @@
 {
     "resourceType": "Condition",
-    "id": "alani-breast-cancer-condition-1",
+    "id": "alani-breast-cancer-condition-10",
     "clinicalStatus": {
     "coding": [
       {
@@ -37,14 +37,14 @@
     "coding": [
       {
         "system": "http://snomed.info/sct",
-        "code": "134405005",
-        "display": "Suspected breast cancer (situation)"
+        "code": "722480002",
+        "display": "Chemotherapy started (situation)"
       }
     ],
-    "text": "Suspected breast cancer (situation)"
+    "text": "Chemotherapy started (situation)"
   },
   "subject": {
     "reference": "Patient/610f11c05b041e00082c54c2"
   },
-  "onsetDateTime": "2021-01-05"
+  "onsetDateTime": "2021-03-015"
 }

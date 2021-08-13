@@ -1,7 +1,7 @@
 {
   "resourceType": "Bundle",
-  "entry": [
-    {
+  "type": "searchset",
+  "entry": [{
       "fullUrl": "/Composition/PNPfkJfkbpWGQ2WMF",
       "resource": {
         "resourceType": "Composition",
